@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Sarala:wght@400;700&display=swap');
+
+:root {
+    --primary-color: #3498db;
+    --font-family-logo: Itim;  
+    --font-family-secondary: Sarala;  
+
+  }
